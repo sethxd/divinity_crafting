@@ -5,3 +5,9 @@ th {
 #filter {
   margin-bottom:10px;
 }
+
+tbody {
+  height: 98%;
+  overflow-y:auto;
+  width:100%;
+}
