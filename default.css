@@ -1,13 +1,66 @@
+body {
+  padding:10px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.top-info {
+  padding:10px 0;
+}
+
+.gh-buttons {
+  padding:10px 0;
+}
+
 th {
   text-align:center;
 }
 
 #filter {
   margin-bottom:10px;
+  padding:10px 0;
 }
 
 tbody {
   height: 98%;
   overflow-y:auto;
   width:100%;
+}
+
+.theme-selector {
+  position: fixed;
+  top:0;
+  right:0;
+  padding: 5px;
+  background: gray;
+  z-index:50;
+  color:white;
+}
+
+.light {
+  color: #000;
+}
+
+.dark {
+  background: #000;
+  color: #fff;
+}
+
+.dark:hover {
+  color:#fff;
+}
+
+.table-dark {
+  background: #000;
+  color: #fff;
+}
+
+.table-dark th:hover {
+  color: #fff;
+}
+
+.table-dark tr:hover {
+  color: #000;
 }
