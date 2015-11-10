@@ -1,0 +1,3994 @@
+[
+  {
+    "Result": "Silver Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Anvil",
+    "Part 2": "Silver Bar",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Two Handed Axe 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Steel Bar",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Two Handed Axe 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Steel Bar",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Two Handed Axe 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Steel Bar",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Two Handed Axe 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Steel Bar",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Two Handed Axe 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Steel Bar",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Two Handed Sword 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Iron Bar",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Two Handed Sword 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Iron Bar",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Two Handed Sword 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Iron Bar",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Two Handed Sword 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Iron Bar",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Two Handed Sword 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Large Iron Bar",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Axe 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Steel Bar",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Axe 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Steel Bar",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Axe 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Steel Bar",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Axe 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Steel Bar",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Axe 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Steel Bar",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Dagger 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Knife",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Dagger 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Knife",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Dagger 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Knife",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Dagger 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Knife",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Dagger 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Knife",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Sword 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Iron Bar",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Sword 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Iron Bar",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Sword 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Iron Bar",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Sword 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Iron Bar",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Sword 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Anvil",
+    "Part 2": "Iron Bar",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Add Movement",
+    "Recipe Type": "Armor",
+    "Part 1": "Anvil",
+    "Part 2": "Scale Armor",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Durability",
+    "Recipe Type": "Armor",
+    "Part 1": "Anvil",
+    "Part 2": "Metal Shield",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Blocking",
+    "Recipe Type": "Armor",
+    "Part 1": "Anvil",
+    "Part 2": "Metal Shield",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Add Blocking",
+    "Recipe Type": "Armor",
+    "Part 1": "Anvil",
+    "Part 2": "Metal Shield",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Add Blocking",
+    "Recipe Type": "Armor",
+    "Part 1": "Anvil",
+    "Part 2": "Metal Shield",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Adventurer's Axe_D",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Axe_Grip",
+    "Part 2": "Adventurer's Axe_C",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Adventurer's Axe_C",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Axe_Head",
+    "Part 2": "Adventurer's Axe_B",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Adventurer's Axe_B",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Axe_Shaft",
+    "Part 2": "Adventurer's Axe_A",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Adventurer's Bow_C",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Bow_Branch",
+    "Part 2": "Adventurer's Bow_B",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Adventurer's Bow_D",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Bow_Handle",
+    "Part 2": "Adventurer's Bow_C",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Adventurer's Bow_B",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Bow_String",
+    "Part 2": "Adventurer's Bow_A",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Adventurer's Staff_B",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Staff_Branch",
+    "Part 2": "Adventurer's Staff_A",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Adventurer's Staff_C",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Staff_Carving",
+    "Part 2": "Adventurer's Staff_B",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Adventurer's Staff_D",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Staff_Gem",
+    "Part 2": "Adventurer's Staff_C",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Adventurer's Sword_D",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Sword_Blade",
+    "Part 2": "Adventurer's Sword_C",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Adventurer's Sword_B",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Sword_Guard",
+    "Part 2": "Adventurer's Sword_A",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Adventurer's Sword_C",
+    "Recipe Type": "Weapons",
+    "Part 1": "Adventurer's Part_Sword_Hilt",
+    "Part 2": "Adventurer's Sword_B",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Taser Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Air Essence",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Add Air Resistance",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Air Essence",
+    "Part 2": "Any Armor or Shield",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Air Damage",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Air Essence",
+    "Part 2": "Any Weapon",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Antler Helmet",
+    "Recipe Type": "Armor",
+    "Part 1": "Antler (Magic)",
+    "Part 2": "Leather Helmet",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Apple Pie Dough",
+    "Recipe Type": "Food",
+    "Part 1": "Apple",
+    "Part 2": "Dough",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Poisoned Apple",
+    "Recipe Type": "Food",
+    "Part 1": "Apple",
+    "Part 2": "Poison Potion | Fly Agaric Mushroom | Ooze Barrel | Intestines",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Invisibility Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Armor Boost Potion",
+    "Part 2": "Air Resist Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Large Air Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Air Resist Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Air Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Air Resist Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Armor Boost Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Armor Boost Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Armor Boost Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Armor Boost Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Earth Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Earth Resist Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Earth Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Earth Resist Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Fire Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Fire Resist Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Fire Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Fire Resist Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Invisibility Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Invisibility Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Invisibility Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Invisibility Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Telekinesis Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Telekinesis Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Telekinesis Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Telekinesis Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Water Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Water Resist Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Water Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Water Resist Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Constitution Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Constitution Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Dexterity Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Dexterity Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Healing Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Healing Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Large Intelligence Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Intelligence Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Perception Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Perception Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Resist-All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Resist-All Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Speed Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Speed Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Strength Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Medium Strength Potion",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Medium Constitution Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Constitution Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Dexterity Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Dexterity Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Healing Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Healing Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Medium Intelligence Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Intelligence Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Perception Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Perception Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Resist-All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Resist-All Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Speed Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Speed Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Medium Strength Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Augmentor",
+    "Part 2": "Minor Strength Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Poormans Best Torso",
+    "Recipe Type": "Armor",
+    "Part 1": "Barrel",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Shield 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Barrel Lid",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Shield 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Barrel Lid",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Shield 03",
+    "Recipe Type": "Armor",
+    "Part 1": "Barrel Lid",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Bottle of Beer",
+    "Recipe Type": "Food",
+    "Part 1": "Beer Barrel",
+    "Part 2": "Empty Bottle",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Mug of Beer",
+    "Recipe Type": "Food",
+    "Part 1": "Beer Barrel",
+    "Part 2": "Empty Mug",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Blank Skillbook",
+    "Recipe Type": "Objects",
+    "Part 1": "Skill Scroll",
+    "Part 2": "Skill Scroll of Same School",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "[X] Skillbook",
+    "Recipe Type": "Objects",
+    "Part 1": "Blank Skillbook",
+    "Part 2": "[X] Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Mug of Beer",
+    "Recipe Type": "Food",
+    "Part 1": "Bottle of Beer",
+    "Part 2": "Empty Mug",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Broken Bottle",
+    "Recipe Type": "Objects",
+    "Part 1": "Mortar and Pestle | Hammer",
+    "Part 2": "Bottle of Beer | Bottle of Oil | Bottle of Water  Bottle of Wine | Empty Bottle",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Explosive Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Bottle of Oil",
+    "Part 2": "Fire Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Slowdown Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Bottle of Oil",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Steam Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Bottle of Water",
+    "Part 2": "Fire Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Glass of Wine",
+    "Recipe Type": "Food",
+    "Part 1": "Bottle of Wine",
+    "Part 2": "Empty Cup",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Mug of Wine",
+    "Recipe Type": "Food",
+    "Part 1": "Bottle of Wine",
+    "Part 2": "Empty Mug",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Crafted Bow 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Bow String",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Bow 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Bow String",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Bow 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Bow String",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Bow 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Bow String",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Bow 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Bow String",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Add Damage",
+    "Recipe Type": "Weapons",
+    "Part 1": "Bow String",
+    "Part 2": "Bow | Crossbow",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crossbow Without String",
+    "Recipe Type": "Weapons",
+    "Part 1": "Branch",
+    "Part 2": "Iron Bar",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Quarterstaff 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Branch",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Quarterstaff 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Branch",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Quarterstaff 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Branch",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Quarterstaff 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Branch",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Armor-Piercing Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Broken Bottle",
+    "Part 2": "Empty Grenade",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Bucket of Water",
+    "Recipe Type": "Food",
+    "Part 1": "Bucket",
+    "Part 2": "Water Barrel | Well",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cup of Milk",
+    "Recipe Type": "Food",
+    "Part 1": "Bucket of Milk",
+    "Part 2": "Empty Cup",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Buffalo Sabre",
+    "Recipe Type": "Weapons",
+    "Part 1": "Buffalo (Amulet)",
+    "Part 2": "Old Sabre (Unique)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Charming Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Charming Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Cheese Bread Dough",
+    "Recipe Type": "Food",
+    "Part 1": "Cheese",
+    "Part 2": "Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Chicken Foot(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Chicken Foot",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Chicken Foot(Magic)(Big)",
+    "Recipe Type": "Objects",
+    "Part 1": "Chicken Foot(Big)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Chicken Claw(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Chicken Foot(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Chicken Claw(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Chicken Foot(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Chicken Claw(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Chicken Foot(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Chicken Claw(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Chicken Foot(Magic)(Big)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Chicken Claw(Magic)(Belt)(Big)",
+    "Recipe Type": "Armor",
+    "Part 1": "Chicken Foot(Magic)(Big)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Chicken Claw(Magic)(Ring)(Big)",
+    "Recipe Type": "Armor",
+    "Part 1": "Chicken Foot(Magic)(Big)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Claw(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Claw",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Claw(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Claw(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Claw(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Claw(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Claw(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Claw(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Claw(Sharp)(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Claw(Sharp)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Claw(Magic)(Amulet)(Sharp)",
+    "Recipe Type": "Armor",
+    "Part 1": "Claw(Sharp)(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Claw(Magic)(Belt)(Sharp)",
+    "Recipe Type": "Armor",
+    "Part 1": "Claw(Sharp)(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Claw(Magic)(Ring)(Sharp)",
+    "Recipe Type": "Armor",
+    "Part 1": "Claw(Sharp)(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Cloth Boots 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Cloth Boots 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Cloth Boots 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Cloth Torso 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Cloth Torso 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Cloth Torso 03",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Cloth Torso 04",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Cloth Torso 05",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Robe 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Magic Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Robe Trethon",
+    "Recipe Type": "Armor",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Dye(Mystery)",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Wooden Figurine",
+    "Recipe Type": "Objects",
+    "Part 1": "Cloth Scraps",
+    "Part 2": "Thread",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Portable Kitchen",
+    "Recipe Type": "Objects",
+    "Part 1": "Cooking Pot",
+    "Part 2": "Campfire",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cooking Pot Helmet",
+    "Recipe Type": "Armor",
+    "Part 1": "Cooking Pot",
+    "Part 2": "Hammer",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Crafted Crossbow 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Crossbow Without String",
+    "Part 2": "Bow String",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Crossbow 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Crossbow Without String",
+    "Part 2": "Bow String",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Crossbow 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Crossbow Without String",
+    "Part 2": "Bow String",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Crossbow 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Crossbow Without String",
+    "Part 2": "Bow String",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Explosive Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Cup of Oil",
+    "Part 2": "Fire Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Slowdown Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Cup of Oil",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Steam Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Cup of Water",
+    "Part 2": "Fire Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Constitution Potion",
+    "Part 2": "Debuf Perception Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Dexterity Potion",
+    "Part 2": "Debuf Constitution Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Dexterity Potion",
+    "Part 2": "Debuf Intelligence Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Dexterity Potion",
+    "Part 2": "Debuf Perception Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Dexterity Potion",
+    "Part 2": "Debuf Speed Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Intelligence Potion",
+    "Part 2": "Debuf Constitution Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Intelligence Potion",
+    "Part 2": "Debuf Perception Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Intelligence Potion",
+    "Part 2": "Debuf Speed Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Speed Potion",
+    "Part 2": "Debuf Constitution Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Speed Potion",
+    "Part 2": "Debuf Perception Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Strength Potion",
+    "Part 2": "Debuf Constitution Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Strength Potion",
+    "Part 2": "Debuf Dexterity Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Strength Potion",
+    "Part 2": "Debuf Intelligence Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Strength Potion",
+    "Part 2": "Debuf Perception Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Debuf Strength Potion",
+    "Part 2": "Debuf Speed Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Dwarven Stew",
+    "Recipe Type": "Food",
+    "Part 1": "Dinner",
+    "Part 2": "Mug of Beer",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Elven Stew",
+    "Recipe Type": "Food",
+    "Part 1": "Dinner",
+    "Part 2": "Tomato Sauce",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Charming Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Drudanae",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Dyed Black",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (Black)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Dyed Blue",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (Blue)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Dyed Green",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (Green)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Dyed Purple",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (Purple)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Dyed Red",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (Red)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Dyed White",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (White)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Dyed Yellow",
+    "Recipe Type": "Armor",
+    "Part 1": "Dye (Yellow)",
+    "Part 2": "Any Armor or Clothing",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Tremor Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Earth Essence",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Earth Resist",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Earth Essence",
+    "Part 2": "Any Armor or Shield",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Earth Damage",
+    "Recipe Type": "Weapons",
+    "Part 1": "Earth Essence",
+    "Part 2": "Any Weapon",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Bottle of Water",
+    "Recipe Type": "Food",
+    "Part 1": "Empty Bottle",
+    "Part 2": "Water Barrel | Well",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Bottle of Oil",
+    "Recipe Type": "Objects",
+    "Part 1": "Empty Bottle",
+    "Part 2": "Oil Barrel",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cup of Water",
+    "Recipe Type": "Food",
+    "Part 1": "Empty Cup",
+    "Part 2": "Bottle of Water | Water Barrel | Well",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Oil Flask Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Empty Flask",
+    "Part 2": "Cup of Oil | Oil Barrel | Bottle of Oil",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Mug of Water",
+    "Recipe Type": "Food",
+    "Part 1": "Empty Mug",
+    "Part 2": "Bottle of Water | Water Barrel | Well",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Air Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Jelleyroom",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Armor Boost Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Whisperwood",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Earth Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Earth Tongue Mushroom",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Fire Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Guepinea Mushroom",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Invisibility Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Void Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Water Resist Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Bluegill Mushroom",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Large Constitution Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Farhangite",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Perception Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Eye",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Speed Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Fanny Blossom",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Medium Constitution Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Farhangite",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Medium Healing Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Penny Bun Mushroom",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Medium Perception Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Eye",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Medium Speed Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Fanny Blossom",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Minor Constitution Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Farhangite",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Minor Healing Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Penny Bun Mushroom",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Minor Perception Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Eye",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Minor Speed Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Empty Potion Bottle",
+    "Part 2": "Fanny Blossom",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Explosive Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Explosive Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Eye(Eerie)",
+    "Recipe Type": "Objects",
+    "Part 1": "Eye",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Eye(Eerie)(Creepy)",
+    "Recipe Type": "Objects",
+    "Part 1": "Eye(Creepy)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Eye(Eerie)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Eye(Eerie)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Eye(Eerie)(Amulet)(Creepy)",
+    "Recipe Type": "Armor",
+    "Part 1": "Eye(Eerie)(Creepy)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Feather",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)(Fancy)",
+    "Recipe Type": "Objects",
+    "Part 1": "Feather(Fancy)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Feather(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Feather(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Feather(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Feather(Magic)(Amulet)(Fancy)",
+    "Recipe Type": "Armor",
+    "Part 1": "Feather(Magic)(Fancy)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)(Belt)(Fancy)",
+    "Recipe Type": "Armor",
+    "Part 1": "Feather(Magic)(Fancy)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather(Magic)(Ring)(Fancy)",
+    "Recipe Type": "Armor",
+    "Part 1": "Feather(Magic)(Fancy)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Sword Of Planets",
+    "Recipe Type": "Weapons",
+    "Part 1": "Fiery Heart",
+    "Part 2": "Bottle of Swirling Mud",
+    "Skill": "Crafting",
+    "Level": "0"
+  },
+  {
+    "Result": "Fire Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Fire Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Cluster Bomb Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Fire Essence",
+    "Part 2": "Empty Grenade",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Added Fire Resist",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Fire Essence",
+    "Part 2": "Any Armor or Shield",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Added Fire Damage",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Fire Essence",
+    "Part 2": "Any Weapon",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Minor Resist-All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Fire Resist Potion",
+    "Part 2": "Earth Resist Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Dough",
+    "Recipe Type": "Food",
+    "Part 1": "Flour",
+    "Part 2": "Cup of Water | Mug of Water | Bucket of Water | Bottle of Water",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Freezing Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Freezing Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Molotov Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Fuse",
+    "Part 2": "Bottle of Oil",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Boosted Value",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Golden Grail (DLC)",
+    "Part 2": "Any Armor",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Thread",
+    "Recipe Type": "Objects",
+    "Part 1": "Hair",
+    "Part 2": "Hair",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Lockpick",
+    "Recipe Type": "Objects",
+    "Part 1": "Hammer",
+    "Part 2": "Nine Inch Nails",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Air Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Air Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Earth Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Earth Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Fire Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Fire Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Water Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Water Wand",
+    "Recipe Type": "Weapons",
+    "Part 1": "Inert Wooden Wand",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Random Air Skill Scroll (Novice)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Air Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Random Air Skill Scroll (Adept)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Air Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Random Air Skill Scroll (Master)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Air Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Random Air Skill Scroll (Master+)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Air Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Random Earth Skill Scroll (Novice)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Earth Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Random Earth Skill Scroll (Adept)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Earth Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Random Earth Skill Scroll (Master)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Earth Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Random Earth Skill Scroll (Master+)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Earth Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Random Fire Skill Scroll (Novice)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Fire Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Random Fire Skill Scroll (Adept)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Fire Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Random Fire Skill Scroll (Master)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Fire Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Random Fire Skill Scroll (Master+)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Fire Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Random Water Skill Scroll (Novice)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Water Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Random Water Skill Scroll (Adept)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Water Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Random Water Skill Scroll (Master)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Water Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Random Water Skill Scroll (Master+)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Water Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Random Witchcraft Scroll (Novice)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Witchcraft Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Random Witchcraft Scroll (Adept)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Witchcraft Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Random Witchcraft Scroll (Master)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Witchcraft Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Random Witchcraft Scroll (Master+)",
+    "Recipe Type": "Objects",
+    "Part 1": "Ink Pot and Quill (Magic)",
+    "Part 2": "Witchcraft Skill Scroll",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Chemical Warfare Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Intestines",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Water Balloon Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Intestines",
+    "Part 2": "Bottle of Water | Water Barrel | Bucket of Water",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Large Iron Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Iron Bar",
+    "Part 2": "Iron Bar",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Jar of Honey",
+    "Recipe Type": "Food",
+    "Part 1": "Jar",
+    "Part 2": "Beehive",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cup of Milk and Honey",
+    "Recipe Type": "Food",
+    "Part 1": "Jar of Honey",
+    "Part 2": "Cup of Milk",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Flashbang Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Jelleyroom",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Added Fire Damage",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Joshua Spice (Kickstarter)",
+    "Part 2": "Any Weapon",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Knockdown Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Knockdown Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Leather Boots 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Leather Boots 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Leather Boots 03",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Leather Boots 04",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Leather Torso 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Leather Torso 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Leather Torso 03",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Leather Torso 04",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Magic Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Backpack",
+    "Recipe Type": "Objects",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Added Defence",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Scraps",
+    "Part 2": "Cloth Armor",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Wood Chips",
+    "Recipe Type": "Objects",
+    "Part 1": "Log",
+    "Part 2": "Axe",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Wooden Stake",
+    "Recipe Type": "Objects",
+    "Part 1": "Log",
+    "Part 2": "Knife | Dagger",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Air Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Air Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Earth Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Earth Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Fire Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Fire Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Water Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Water Wand_E",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_B",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Air Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Air Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Earth Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Earth Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Fire Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Fire Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Water Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Water Wand_I",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_C",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Air Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Air Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Earth Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Earth Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Fire Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Fire Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Water Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Water Wand_M",
+    "Recipe Type": "Weapons",
+    "Part 1": "LOOT_Wand_D",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Large Healing Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Medium Healing Potion",
+    "Part 2": "Medium Healing Potion",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Metal Boots 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Metal Boots 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Metal Boots 03",
+    "Recipe Type": "Armor",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Anvil",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Crafted Metal Torso 01",
+    "Recipe Type": "Armor",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Hammer",
+    "Skill": "Smithing",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Metal Torso 02",
+    "Recipe Type": "Armor",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Hammer",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Metal Torso 03",
+    "Recipe Type": "Armor",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Hammer",
+    "Skill": "Smithing",
+    "Level": "5"
+  },
+  {
+    "Result": "Added Defence",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Metal Scraps",
+    "Part 2": "Cloth/Leather Armor or Shield",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Large Strength Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Constitution Potion",
+    "Part 2": "Bonedust",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Medium Strength Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Constitution Potion",
+    "Part 2": "Bonedust",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Minor Strength Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Constitution Potion",
+    "Part 2": "Bonedust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Medium Healing Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Healing Potion",
+    "Part 2": "Minor Healing Potion",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Large Intelligence Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Perception Potion",
+    "Part 2": "Void Essence",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Medium Intelligence Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Perception Potion",
+    "Part 2": "Void Essence",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Minor Intelligence Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Perception Potion",
+    "Part 2": "Void Essence",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Telekinesis Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Resist-All Potion",
+    "Part 2": "Drudanae",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Large Dexterity Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Speed Potion",
+    "Part 2": "Sinew",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Medium Dexterity Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Speed Potion",
+    "Part 2": "Sinew",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Minor Dexterity Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Minor Speed Potion",
+    "Part 2": "Sinew",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Moondust",
+    "Recipe Type": "Objects",
+    "Part 1": "Moonstone",
+    "Part 2": "Mortar and Pestle",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Added Damage",
+    "Recipe Type": "Weapons",
+    "Part 1": "Moonstone",
+    "Part 2": "Staff | Club",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Sheet of Paper",
+    "Recipe Type": "Objects",
+    "Part 1": "Mush of Wood",
+    "Part 2": "Oven",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Needle and Thread",
+    "Recipe Type": "Objects",
+    "Part 1": "Needle",
+    "Part 2": "Thread",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Lockpick",
+    "Recipe Type": "Objects",
+    "Part 1": "Needle",
+    "Part 2": "Needle",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Nailbomb Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Nine Inch Nails",
+    "Part 2": "Empty Grenade",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Branch with Nails",
+    "Recipe Type": "Weapons",
+    "Part 1": "Nine Inch Nails",
+    "Part 2": "Branch",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Immunity to Falldown",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Nine Inch Nails",
+    "Part 2": "Any Shoes",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Slowdown Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Oil Barrel",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Boosted Value",
+    "Recipe Type": "Armor",
+    "Part 1": "Pearl",
+    "Part 2": "Any Shield",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Feather",
+    "Recipe Type": "Objects",
+    "Part 1": "Pillow",
+    "Part 2": "Knife | Dagger",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Love Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Empty Love Grenade",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Antler(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Antler",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Ink Pot and Quill (Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Ink Pot and Quill",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Magic Needle and Thread",
+    "Recipe Type": "Objects",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Needle and Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Skull",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)(Ancient)",
+    "Recipe Type": "Objects",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Skull(Ancient)",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)(Tattooed)",
+    "Recipe Type": "Objects",
+    "Part 1": "Pixie Dust",
+    "Part 2": "Skull(Tattooed)",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Added Defence",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Plate Scraps",
+    "Part 2": "Armor Scale",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Added Defence",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Portable Kitchen",
+    "Part 2": "ArmorLeather",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Cold Mashed Potatos",
+    "Recipe Type": "Food",
+    "Part 1": "Potato",
+    "Part 2": "Hammer",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Potato Porridge",
+    "Recipe Type": "Food",
+    "Part 1": "Potato",
+    "Part 2": "Cup of Milk",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Ink Pot and Quill",
+    "Recipe Type": "Objects",
+    "Part 1": "Quill",
+    "Part 2": "Ink Pot",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Rabbit Paw",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Lucky)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rabbit Paw(Super)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)(Amulet)",
+    "Part 2": "Bow String",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Rabbit Paw(Super)(Amulet)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)(Amulet)(Lucky)",
+    "Part 2": "Bow String",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Amulet)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)(Lucky)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Belt)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)(Lucky)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Rabbit Paw(Magic)(Ring)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Magic)(Lucky)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rabbit Paw(Super)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Super)(Amulet)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Rabbit Paw(Super)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Super)(Amulet)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rabbit Paw(Super)(Belt)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Super)(Amulet)(Lucky)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Rabbit Paw(Super)(Ring)(Lucky)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rabbit Paw(Super)(Amulet)(Lucky)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Rat Tail",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Long)",
+    "Recipe Type": "Objects",
+    "Part 1": "Rat Tail(Long)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rat Tail(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rat Tail(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rat Tail(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Amulet)(Long)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rat Tail(Magic)(Long)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Belt)(Long)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rat Tail(Magic)(Long)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Rat Tail(Magic)(Ring)(Long)",
+    "Recipe Type": "Armor",
+    "Part 1": "Rat Tail(Magic)(Long)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Dinner",
+    "Recipe Type": "Food",
+    "Part 1": "Raw Meat",
+    "Part 2": "Oven",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Lockpick",
+    "Recipe Type": "Food",
+    "Part 1": "Repair Hammer",
+    "Part 2": "Nine Inch Nails",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Fuse",
+    "Recipe Type": "Grenades",
+    "Part 1": "Rope",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Chemical Warfare Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Rotten Eggs",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Added Defence",
+    "Recipe Type": "Armor",
+    "Part 1": "Scale Scraps",
+    "Part 2": "Scale Armor",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Add Perception + Add Dexterity",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Scope",
+    "Part 2": "Bow | Crossbow",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Add Resist Tenebrium",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Void Essence",
+    "Part 2": "Any Shield",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Add Sneaking",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Void Essence",
+    "Part 2": "Any Armor",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Air Skill Scroll",
+    "Recipe Type": "Objects",
+    "Part 1": "Sheet of Paper",
+    "Part 2": "Air Essence",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Earth Skill Scroll",
+    "Recipe Type": "Objects",
+    "Part 1": "Sheet of Paper",
+    "Part 2": "Earth Essence",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Fire Skill Scroll",
+    "Recipe Type": "Objects",
+    "Part 1": "Sheet of Paper",
+    "Part 2": "Fire Essence",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Water Skill Scroll",
+    "Recipe Type": "Objects",
+    "Part 1": "Sheet of Paper",
+    "Part 2": "Water Essence",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Witchcraft Skill Scroll",
+    "Recipe Type": "Objects",
+    "Part 1": "Sheet of Paper",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Silver Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Silver Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Skull(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Skull(Magic)(Amulet)(Ancient)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)(Ancient)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Skull(Magic)(Belt)(Ancient)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)(Ancient)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)(Ring)(Ancient)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)(Ancient)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Skull(Magic)(Amulet)(Tattooed)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)(Tattooed)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Skull(Magic)(Belt)(Tattooed)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)(Tattooed)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Skull(Magic)(Ring)(Tattooed)",
+    "Recipe Type": "Armor",
+    "Part 1": "Skull(Magic)(Tattooed)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Slowdown Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Slowdown Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Smokescreen Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Smokescreen Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Lockpick",
+    "Recipe Type": "Objects",
+    "Part 1": "Soap",
+    "Part 2": "Key",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Pixie Dust",
+    "Recipe Type": "Objects",
+    "Part 1": "Stardust",
+    "Part 2": "Bonedust",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Pixie Dust",
+    "Recipe Type": "Objects",
+    "Part 1": "Stardust",
+    "Part 2": "Moondust",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Stardust",
+    "Recipe Type": "Objects",
+    "Part 1": "Stardust Herb",
+    "Part 2": "Mortar and Pestle",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Starfish(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Starfish",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Starfish(Magic)(Glowing)",
+    "Recipe Type": "Objects",
+    "Part 1": "Starfish(Glowing)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Holy Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Starfish(Magic)",
+    "Part 2": "Empty Holy Grenade",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Starfish(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Starfish(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Holy Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Starfish(Magic)(Amulet)",
+    "Part 2": "Empty Holy Grenade",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Holy Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Starfish(Magic)(Amulet)(Glowing)",
+    "Part 2": "Empty Holy Grenade",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Holy Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Starfish(Magic)(Glowing)",
+    "Part 2": "Empty Holy Grenade",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Starfish(Magic)(Amulet)(Glowing)",
+    "Recipe Type": "Armor",
+    "Part 1": "Starfish(Magic)(Glowing)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Static Cloud Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Static Cloud Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Steam Cloud Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Steam Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Sinew",
+    "Recipe Type": "Objects",
+    "Part 1": "Strong Sinew",
+    "Part 2": "Knife | Dagger",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Stunning Arrow",
+    "Recipe Type": "Arrows",
+    "Part 1": "Stunning Arrowhead",
+    "Part 2": "Arrow Shaft",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Cup of Tea",
+    "Recipe Type": "Food",
+    "Part 1": "Tea Herbs",
+    "Part 2": "Cup of Water",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Mug of Tea",
+    "Recipe Type": "Food",
+    "Part 1": "Tea Herbs",
+    "Part 2": "Mug of Water",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Add Tenebrium Effect",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Tenebrium Bar",
+    "Part 2": "Any Weapon",
+    "Skill": "Tenebrium",
+    "Level": "3"
+  },
+  {
+    "Result": "Tomato Sauce",
+    "Recipe Type": "Food",
+    "Part 1": "Tomato",
+    "Part 2": "Hammer | Repair Hammer",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Pizza Dough",
+    "Recipe Type": "Food",
+    "Part 1": "Tomato Sauce",
+    "Part 2": "Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Tooth(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Tooth",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tooth(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tooth(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tooth(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Amulet)(Sharp)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tooth(Magic)(Sharp)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Belt)(Sharp)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tooth(Magic)(Sharp)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Ring)(Sharp)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tooth(Magic)(Sharp)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tooth(Magic)(Sharp)",
+    "Recipe Type": "Objects",
+    "Part 1": "Tooth(Sharp)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Terror Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Tormented Soul",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Add Strength + Add Dexterity",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Tormented Soul",
+    "Part 2": "Any Weapon",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Tusk(Magic)",
+    "Recipe Type": "Objects",
+    "Part 1": "Tusk",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Tusk(Magic)(Large)",
+    "Recipe Type": "Objects",
+    "Part 1": "Tusk(Large)",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Tusk(Magic)(Amulet)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tusk(Magic)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Tusk(Magic)(Belt)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tusk(Magic)",
+    "Part 2": "Rope",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Tusk(Magic)(Ring)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tusk(Magic)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Tusk(Magic)(Amulet)(Large)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tusk(Magic)(Large)",
+    "Part 2": "Thread",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Tusk(Magic)(Ring)(Large)",
+    "Recipe Type": "Armor",
+    "Part 1": "Tusk(Magic)(Large)",
+    "Part 2": "Ring",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Voodoo Doll 01",
+    "Recipe Type": "Objects",
+    "Part 1": "Voodoo Doll",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Voodoo Doll 02",
+    "Recipe Type": "Objects",
+    "Part 1": "Voodoo Doll",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Voodoo Doll 03",
+    "Recipe Type": "Objects",
+    "Part 1": "Voodoo Doll",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Voodoo Doll 04",
+    "Recipe Type": "Objects",
+    "Part 1": "Voodoo Doll",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Voodoo Doll 55",
+    "Recipe Type": "Objects",
+    "Part 1": "Voodoo Doll",
+    "Part 2": "Pixie Dust",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Washtub and Board",
+    "Recipe Type": "Objects",
+    "Part 1": "Washboard",
+    "Part 2": "Washtub",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Ice Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Water Essence",
+    "Part 2": "Empty Grenade",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Add Water Resist",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Water Essence",
+    "Part 2": "Any Armor or Shield",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Water Damage",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Water Essence",
+    "Part 2": "Any Weapon",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Minor Resist-All Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Water Resist Potion",
+    "Part 2": "Air Resist Potion",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Porridge",
+    "Recipe Type": "Food",
+    "Part 1": "Wheat",
+    "Part 2": "Cup of Milk",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Flour",
+    "Recipe Type": "Objects",
+    "Part 1": "Wheat",
+    "Part 2": "Mortar and Pestle",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Add Damage",
+    "Recipe Type": "Weapon Enchant",
+    "Part 1": "Whetstone | Whetstone Wheel",
+    "Part 2": "Any Weapon",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Bottle of Wine",
+    "Recipe Type": "Food",
+    "Part 1": "Wine Barrel",
+    "Part 2": "Empty Bottle",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Glass of Wine",
+    "Recipe Type": "Food",
+    "Part 1": "Wine Barrel",
+    "Part 2": "Empty Cup",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Mug of Wine",
+    "Recipe Type": "Food",
+    "Part 1": "Wine Barrel",
+    "Part 2": "Empty Mug",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Mush of Wood",
+    "Recipe Type": "Objects",
+    "Part 1": "Wood Chips",
+    "Part 2": "Water Barrel | Bucket of Water | Well",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Voodoo Doll",
+    "Recipe Type": "Objects",
+    "Part 1": "Wooden Figurine",
+    "Part 2": "Needle",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Yarn",
+    "Recipe Type": "Objects",
+    "Part 1": "Wool",
+    "Part 2": "Wool",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Rope",
+    "Recipe Type": "Objects",
+    "Part 1": "Yarn",
+    "Part 2": "Yarn",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Bonedust",
+    "Recipe Type": "Objects",
+    "Part 1": "Bone",
+    "Part 2": "Mortar and Pestle",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Water Balloon Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Intestines",
+    "Part 2": "Cup of Water",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Cup of Apple Juice",
+    "Recipe Type": "Food",
+    "Part 1": "Empty Cup",
+    "Part 2": "Apple",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cup of Oil",
+    "Recipe Type": "Objects",
+    "Part 1": "Empty Cup",
+    "Part 2": "Oil Barrel",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cup of Orange Juice",
+    "Recipe Type": "Food",
+    "Part 1": "Empty Cup",
+    "Part 2": "Orange",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cold Fries",
+    "Recipe Type": "Food",
+    "Part 1": "Dagger | Knife",
+    "Part 2": "Potato",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Leather Scraps",
+    "Recipe Type": "Objects",
+    "Part 1": "Dagger | Knife",
+    "Part 2": "Animal Hide",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Pumpkin Helmet",
+    "Recipe Type": "Armor",
+    "Part 1": "Dagger | Knife",
+    "Part 2": "Pumpkin",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Knockdown Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Dagger | Knife",
+    "Part 2": "Antler",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Arrow Shaft",
+    "Recipe Type": "Arrows",
+    "Part 1": "Dagger | Knife",
+    "Part 2": "Wooden Stake | Branch",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Crafted Spear 01",
+    "Recipe Type": "Weapons",
+    "Part 1": "Dagger",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Crafted Spear 02",
+    "Recipe Type": "Weapons",
+    "Part 1": "Dagger",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Crafted Spear 03",
+    "Recipe Type": "Weapons",
+    "Part 1": "Dagger",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Crafted Spear 04",
+    "Recipe Type": "Weapons",
+    "Part 1": "Dagger",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Crafted Spear 05",
+    "Recipe Type": "Weapons",
+    "Part 1": "Dagger",
+    "Part 2": "Branch",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Quill",
+    "Recipe Type": "Objects",
+    "Part 1": "Feather",
+    "Part 2": "Knife | Dagger",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cyseal Pie Dough",
+    "Recipe Type": "Food",
+    "Part 1": "Any Fish",
+    "Part 2": "Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Stunning Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "",
+    "Part 2": "",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet Crab Pincer",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Crab Claw",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet Feather",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Feather(Magic)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet Feather(Fancy)",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Feather(Magic)(Fancy)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet Starfish",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Starfish(Magic)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet Starfish(Glowing)",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Starfish(Magic)(Glowing)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet ThirdEye",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Eye(Eerie)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Helmet ThirdEye(Creepy)",
+    "Recipe Type": "Armor",
+    "Part 1": "Leather Helmet",
+    "Part 2": "Eye(Eerie)(Creepy)",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Cheese Bread",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Cheese Bread Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Dinner",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "FoodFish",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Rivellon Fries",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Cold Fries",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Apple Pie",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Apple Pie Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cyseal Pie",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Cyseal Pie Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Pizza",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Pizza Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Boiled Potato",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Potato",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Mashed Potatos",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Cold Mashed Potatos",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Pumpkin Soup",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Pumpkin",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Cooked Ishmashell",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Ishmashell",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Bread",
+    "Recipe Type": "Food",
+    "Part 1": "Oven",
+    "Part 2": "Dough",
+    "Skill": "",
+    "Level": "0"
+  },
+  {
+    "Result": "Tenebrium Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Oven",
+    "Part 2": "Tenebrium Ore",
+    "Skill": "Smithing",
+    "Level": "4"
+  },
+  {
+    "Result": "Iron Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Oven",
+    "Part 2": "Sword | Iron Bone | Iron Ore",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Large Iron Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Oven",
+    "Part 2": "Two-Handed Sword",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Silver Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Oven",
+    "Part 2": "Silver Ore",
+    "Skill": "Smithing",
+    "Level": "2"
+  },
+  {
+    "Result": "Steel Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Oven",
+    "Part 2": "Axe | Iron Bar",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Large Steel Bar",
+    "Recipe Type": "Objects",
+    "Part 1": "Oven",
+    "Part 2": "Two-Handed Axe | Large Iron Bar",
+    "Skill": "Smithing",
+    "Level": "1"
+  },
+  {
+    "Result": "Boosted Value",
+    "Recipe Type": "Armor",
+    "Part 1": "Pearl",
+    "Part 2": "Any Armor",
+    "Skill": "Crafting",
+    "Level": "1"
+  },
+  {
+    "Result": "Flashbang Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Air Resistance Potion",
+    "Part 2": "Empty Canister",
+    "Skill": "Crafting",
+    "Level": "4"
+  },
+  {
+    "Result": "Static Cloud Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Air Resistance Potion",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Explosive Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "Fire Resistance Potion",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "3"
+  },
+  {
+    "Result": "Debuf Constitution Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Poison Potion",
+    "Part 2": "Bonedust",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Debuf Dexterity Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Poison Potion",
+    "Part 2": "Sinew",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Debuf Intelligence Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Poison Potion",
+    "Part 2": "Tormented Soul",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Debuf Perception Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Poison Potion",
+    "Part 2": "Eye",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Debuf Speed Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Poison Potion",
+    "Part 2": "Void Essence",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Debuf Strength Potion",
+    "Recipe Type": "Potions",
+    "Part 1": "Poison Potion",
+    "Part 2": "Tooth",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Mustard Gas Grenade",
+    "Recipe Type": "Grenades",
+    "Part 1": "Poison Potion",
+    "Part 2": "Empty Grenade",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Steam Arrowhead",
+    "Recipe Type": "Arrows",
+    "Part 1": "PotionWaterRes",
+    "Part 2": "Arrowhead",
+    "Skill": "Crafting",
+    "Level": "2"
+  },
+  {
+    "Result": "Add Resist All",
+    "Recipe Type": "Armor Enchant",
+    "Part 1": "Ruby",
+    "Part 2": "Any Armor",
+    "Skill": "Crafting",
+    "Level": "5"
+  },
+  {
+    "Result": "Bow String",
+    "Recipe Type": "Objects",
+    "Part 1": "Sinew",
+    "Part 2": "Sinew",
+    "Skill": "",
+    "Level": "0"
+  }
+]
