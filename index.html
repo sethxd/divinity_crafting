@@ -30,14 +30,19 @@
 
   <div class="container-fluid">
     <div class="top-info">
-      <h1>Divinity Original Sin: Enhanced Edition Crafting Table (v0.2)</h1>
+      <h1>Divinity Original Sin: Enhanced Edition Crafting Table (v0.3)</h1>
+      <div class="gh-buttons">
+          <iframe src="https://ghbtns.com/github-btn.html?user=sethxd&repo=divinity_crafting&type=star&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=sethxd&repo=divinity_crafting&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="100px" height="20px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=sethxd&repo=divinity_crafting&type=fork&count=true" frameborder="0" scrolling="0" width="100px" height="20px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=sethxd&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+      </div>
       <p>Welcome to the all-in-one table of crafting recipes for Divinity Original Sin: Enhanced Edition! Use the search bar to filter results and only show certain recipes, click the table headers to sort, and use the theme selector to switch the table between light and dark themes. If you have any suggestions, please send me an email (seth dot dehaan at gmail dot com) or fork this project and submit a pull request on github.</p>
       <h4>Tips & Tricks:</h4>
-      <p>Most food and drink items can be combined with (Poison Potion | Fly Agaric Mushroom | Ooze Barrel | Intestines) to craft a poisoned version of that item.</p>
+      <ul>
+        <li>Most food and drink items can be combined with (Poison Potion | Fly Agaric Mushroom | Ooze Barrel | Intestines) to craft a poisoned version of that item.</li>
+        <li>For advanced crafting tips and progression, read over a <a target="_blank" href="https://docs.google.com/document/d/1skVuINeNSoqDYqn7FzufVtXS3sxUK-cp1Zgb73uV6lI/edit">detailed crafting breakdown</a> by <a target="_blank" href="https://www.reddit.com/user/lirili">/u/lirili</a>.
+        </li>
+      </ul>
     </div>
-    <div class="gh-buttons">
-        <iframe src="https://ghbtns.com/github-btn.html?user=sethxd&repo=divinity_crafting&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-    </div>
+
 
     <div id="filter" class="input-group">
       <span class="input-group-addon">Filter results:</span>
@@ -4247,7 +4252,7 @@
 
     $('.dark').click(function() {
       $('.table').addClass('table-dark');
-      $('body').css('background-color', '#000');
+      $('body').css('background-color', '#333');
       $('body').css('color', '#fff');
     });
 
