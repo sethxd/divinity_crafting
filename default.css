@@ -2,6 +2,10 @@ body {
   padding:10px;
 }
 
+.container-fluid {
+  max-width:90%;
+}
+
 h1 {
   font-size: 2em;
 }
@@ -33,10 +37,11 @@ tbody {
   position: fixed;
   top:0;
   right:0;
-  padding: 5px;
+  padding: 10px;
   background: gray;
   z-index:50;
   color:white;
+  border-bottom-left-radius: 10px;
 }
 
 .light {

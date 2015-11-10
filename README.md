@@ -1,6 +1,10 @@
 #DOS: Enhanced Edition Crafting Table
 
-##Latest Changes
+###v0.3
+
+- Added filter control for recipe type
+- Locked column widths
+- Consolidated skill books and removed poisoned food recipes
 
 ###v0.2
 
