@@ -1,5 +1,12 @@
 #DOS: Enhanced Edition Crafting Table
 
+###v0.4
+
+- Cleaned up recipes (Adventurer's, wands)
+- Minor upkeep
+- Moved Github buttons
+- Expanded tips and tricks, link to /u/lirili's guide
+
 ###v0.3
 
 - Added filter control for recipe type
