@@ -15,7 +15,7 @@ h1 {
 }
 
 .gh-buttons {
-  padding:10px 0;
+  padding:0 0 10px 0;
 }
 
 th {
@@ -58,7 +58,7 @@ tbody {
 }
 
 .table-dark {
-  background: #000;
+  background: #333;
   color: #fff;
 }
 
